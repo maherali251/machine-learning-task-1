@@ -1,1 +1,1 @@
-# machine-learning-task-1
+# machine-learning-tasks
